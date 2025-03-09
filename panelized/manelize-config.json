@@ -1,0 +1,13 @@
+{
+    "layout": {
+        "hspace": "0.6mm",
+        "vspace": "0.6mm",
+        "rows": "5",
+        "cols": "8",
+        "vbonecut": "False",
+        "hbonecut": "False"
+    },
+    "tabs": {
+        "type": "none"
+    }
+}
