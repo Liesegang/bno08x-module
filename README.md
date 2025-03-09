@@ -1,6 +1,7 @@
 # BNO08x module
 
 Akizuki [BNO055使用 9軸センサーフュージョンモジュールキット](https://akizukidenshi.com/catalog/g/g116996/) compatible BNO08x module board.
+[BNO08x datasheet](https://www.ceva-ip.com/wp-content/uploads/BNO080_085-Datasheet.pdf)
 
 **SUPPORT 3.3V ONLY**
 Support qwiic connector.
@@ -17,6 +18,9 @@ Support qwiic connector.
 ## Mode
 
 |J1|J2|J3|J4|Mode|
+|--|--|--|--|--|
+|closed|open|closed|open|I2C|
+|open|closed|closed|open|UART|
 
 ## I2C Addr
 
